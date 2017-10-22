@@ -21,9 +21,9 @@ spring:
             enabled: false
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:mysql://localhost:3306/health?useUnicode=true&characterEncoding=utf8&useSSL=false
-        username: supun
-        password: 19249
+        url: jdbc:mysql://localhost:3306/id3164130_startathon?useUnicode=true&characterEncoding=utf8&useSSL=false
+        username: id3164130_sghealth
+        password: q1w2e3r4
         hikari:
             data-source-properties:
                 cachePrepStmts: true
