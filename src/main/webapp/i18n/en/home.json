@@ -1,0 +1,10 @@
+{
+    "home": {
+        "title": "Welcome to Health App!",
+        "subtitle": "This is your health buddy to keep you healthy.. Become healthier as you move through the leadboards and get rewards!",
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "question": "If you have any question on JHipster:"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipName": "user",
+            "otherEntityName": "user",
+            "relationshipType": "one-to-one",
+            "otherEntityField": "login",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "customer"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "features",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20171021091255",
+    "dto": "no",
+    "service": "serviceClass",
+    "entityTableName": "customer",
+    "pagination": "no"
+}
